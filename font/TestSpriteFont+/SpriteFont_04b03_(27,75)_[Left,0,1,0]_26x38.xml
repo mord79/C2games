@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GYFM xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AdjustHeight>0</AdjustHeight>
+  <AdjustWidth>1</AdjustWidth>
+  <AntiAliasName>None</AntiAliasName>
+  <BackgroundColour>White</BackgroundColour>
+  <FontColour>Black</FontColour>
+  <FontDetails>04b03; 27,75pt</FontDetails>
+  <LetterSet>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789.,;:?!-_~#"'&amp;()[]|`\/@°+=*$£€&lt;&gt;%</LetterSet>
+  <SampleText>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789.,;:?!-_~#"'&amp;()[]|`\/@°+=*$£€&lt;&gt;%</SampleText>
+  <ShiftHorz>0</ShiftHorz>
+  <ShowGrid>false</ShowGrid>
+  <ShowBoundary>false</ShowBoundary>
+</GYFM>
